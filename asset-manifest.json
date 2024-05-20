@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f49a43f.css",
+    "main.js": "/static/js/main.f28ce8ef.js",
+    "static/js/787.a61bafab.chunk.js": "/static/js/787.a61bafab.chunk.js",
+    "static/media/mon_vieux_grimoire.png": "/static/media/mon_vieux_grimoire.26d19c532cbebe50a8ea.png",
+    "static/media/photo.png": "/static/media/photo.918bf6fa0f0fdc37c197.png",
+    "static/media/gaetan_gobin_logo.svg": "/static/media/gaetan_gobin_logo.a391aa24b6ecdb99c8be42ab5ef2c8b7.svg",
+    "static/media/user-line1.svg": "/static/media/user-line1.3b7785a91d70a532afec0f035d589573.svg",
+    "static/media/code-box-line2.svg": "/static/media/code-box-line2.c6e9c7299d4573065184eee529784687.svg",
+    "static/media/git-repository-line.svg": "/static/media/git-repository-line.82fde267fa86ed4e33ee202e24a53cb5.svg",
+    "index.html": "/index.html",
+    "static/media/mail-line.svg": "/static/media/mail-line.4d8cc1af19fddcd11960a01911594ea9.svg",
+    "static/media/squares.svg": "/static/media/squares.271e8fc437e2380a141d4390d9d52c85.svg",
+    "main.1f49a43f.css.map": "/static/css/main.1f49a43f.css.map",
+    "main.f28ce8ef.js.map": "/static/js/main.f28ce8ef.js.map",
+    "787.a61bafab.chunk.js.map": "/static/js/787.a61bafab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f49a43f.css",
+    "static/js/main.f28ce8ef.js"
+  ]
+}
